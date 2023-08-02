@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bombón BON O BON Surtido",
+      "precio": 2400,
+      "categoria": "Golosinas",
+      "imagen": "bonobonsurtido.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Caramelos Butter Toffe Águila",
+      "precio": 1450,
+      "categoria": "Golosinas",
+      "imagen": "caramelosaguila.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Chocolate VIZZIO Maní c/chocolate",
+      "precio": 1100,
+      "categoria": "Golosinas",
+      "imagen": "vizziomani.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Ravioles LA SALTEÑA Ricotta",
+      "precio": 1200,
+      "categoria": "Pastas",
+      "imagen": "raviolesricotta.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Tapas LA SALTEÑA Criollas",
+      "precio": 600,
+      "categoria": "Pastas",
+      "imagen": "tapascriollas.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Jamón cocido PALADINI",
+        "precio": 2400,
+        "categoria": "Fiambres",
+        "imagen": "jamoncocido.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Queso cremoso LA PAULINA",
+        "precio": 2550,
+        "categoria": "Fiambres",
+        "imagen": "quesopaulina.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Salame COFRA",
+        "precio": 1650,
+        "categoria": "Fiambres",
+        "imagen": "salamecofra.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Aceite de oliva GANAPATI",
+        "precio": 1100,
+        "categoria": "Conservas",
+        "imagen": "aceiteoliva.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Mermelada de Ciruela ARCOR",
+        "precio": 600,
+        "categoria": "Conservas",
+        "imagen": "mermeladaciruela.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Vinagre blanco SAN JORGE",
+        "precio": 1100,
+        "categoria": "Conservas",
+        "imagen": "vinagreblanco.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Galletas PROVIDENCIA",
+        "precio": 800,
+        "categoria": "Galletas",
+        "imagen": "galletasprovidencia.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Galletas CRIOLLITAS",
+        "precio": 750,
+        "categoria": "Galletas",
+        "imagen": "galletascriollitas.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Leche ILOLAY",
+        "precio": 350,
+        "categoria": "Lácteos",
+        "imagen": "lecheilolay.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Yogur CALANTA",
+        "precio": 400,
+        "categoria": "Lácteos",
+        "imagen": "yogur.jpg"
+    }
+]
